@@ -2,7 +2,6 @@
 
 A modern, full-stack blog platform built with React 19, Node.js (Express 5), MongoDB, and Tailwind CSS. Features include authentication (Clerk + JWT), infinite scroll, advanced filtering, and responsive design.
 
-![Project Screenshot]<!-- (Add a screenshot or GIF here if possible) -->
 
 ## ✨ Features
 
@@ -29,9 +28,3 @@ A modern, full-stack blog platform built with React 19, Node.js (Express 5), Mon
 - MongoDB Atlas URI (or local instance)
 - Clerk API keys ([sign up here](https://clerk.dev))
 
-### Installation
-
-1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
