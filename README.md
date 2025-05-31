@@ -27,4 +27,3 @@ A modern, full-stack blog platform built with React 19, Node.js (Express 5), Mon
 - Node.js (v18+)
 - MongoDB Atlas URI (or local instance)
 - Clerk API keys ([sign up here](https://clerk.dev))
-
